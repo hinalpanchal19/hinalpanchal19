@@ -19,6 +19,7 @@ I am a Data Analyst at UnitedHealth Group, passionate about deriving meaningful 
 Analyze and interpret intricate datasets to uncover trends and patterns.
 Develop data-driven solutions that foster innovation and efficiency.
 Create compelling visualizations to communicate insights effectively.
+
 🌱 What Drives Me:
 
 A commitment to continuous learning and exploring advanced analytical techniques.
